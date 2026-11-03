@@ -8,7 +8,7 @@ Using a synthetic dataset of 1,000 students, this project performs **Exploratory
 
 The main objective is to identify patterns in students' screen time and study routines and build predictive models that estimate exam performance.
              
-## 📊 Dataset Features
+## 📊 Dataset Features                       
 
 The dataset contains information about 1,000 Pakistani university students with the following features:
 
