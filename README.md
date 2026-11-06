@@ -1,6 +1,6 @@
 # 📈 Pakistan Student Screen-Time & Exam Performance Analysis   
                                    
-## 📝 Project Overview                                                           
+## 📝 Project Overview                                                                           
                
 This project explores the relationship between smartphone screen time, study habits, and academic performance among university students in Pakistan.
 
