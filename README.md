@@ -1,7 +1,7 @@
 # 📈 Pakistan Student Screen-Time & Exam Performance Analysis   
                                                                    
 ## 📝 Project Overview                                                                                          
-               
+                          
 This project explores the relationship between smartphone screen time, study habits, and academic performance among university students in Pakistan.
 
 Using a synthetic dataset of 1,000 students, this project performs **Exploratory Data Analysis (EDA)** and applies Machine Learning models to understand how students' daily digital habits relate to their final exam scores.
